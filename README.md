@@ -1,11 +1,11 @@
 <h1>🚀 Hello World! 🥇</h1>
 
 <div>
-  ###Meu nome é Douglas Monquero
-  ###Cursando Engenharia de Software - Cesumar
-  ###Cursando Técnico de Desenvolvimento de Sistemas - SenaiCtm
-  ###Cursando Front-End pela DevStart
-  ###BootCamp Java em pausa
+  ### Meu nome é Douglas Monquero
+  ### Cursando Engenharia de Software - Cesumar
+  ### Cursando Técnico de Desenvolvimento de Sistemas - SenaiCtm
+  ### Cursando Front-End pela DevStart
+  ### BootCamp Java em pausa
 </div>
 
 <div align="">
@@ -49,10 +49,6 @@
   <a href="https://www.linkedin.com/in/douglas-monquero" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
-
-
-
 
 <h3>🧾Contato: douglas.monquero@gmail.com</h3>
 <h3>📘Estudando: javascript</h3>
