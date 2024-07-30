@@ -1,11 +1,13 @@
 <h1>🚀 Hello World! 🥇</h1>
 
 <div>
-  <h4>Meu nome é Douglas Monquero</h4>
-  <h4> Cursando Engenharia de Software - Cesumar</h4>
-  <h4>Cursando Técnico de Desenvolvimento de Sistemas - SenaiCtm</h4>
-  <h4>Cursando Front-End pela DevStart</h4>
-  <h4>BootCamp Java em pausa</h4>
+  <h3>Meu nome é Douglas Monquero</h3>
+<ul>
+   <li><h4> Cursando Engenharia de Software - Cesumar</h4></li>
+   <li><h4>Cursando Técnico de Desenvolvimento de Sistemas - SenaiCtm</h4></li>
+   <li><h4>Cursando Front-End pela DevStart</h4></li>
+   <li><h4>BootCamp Java em pausa</h4></li>
+</ul>
 </div>
 
 <div align="">
