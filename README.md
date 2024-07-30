@@ -1,5 +1,13 @@
 <h1>🚀 Hello World! 🥇</h1>
 
+<div>
+  <h3>Meu nome é Douglas Monquero</h3>
+  <h3>Cursando Engenharia de Software - Cesumar</h3>
+  <h3>Cursando Técnico de Desenvolvimento de Sistemas - SenaiCtm</h3>
+  <h3>Cursando Front-End pela DevStart</h3>
+  <h3>BootCamp Java em pausa</h3>
+</div>
+
 <div align="">
   <img align="center" ; src="https://github-readme-stats.vercel.app/api/top-langs?username=dmm76&layout=compact&bg_color=d9d9d9&border_color=ffffff&text_color=000000&title_color=000000&size_weight=0&count_weight=1" alt="robs" height = "150em"/> 
  &nbsp;
@@ -22,11 +30,6 @@
   />
 </picture>
 
-<h3>Meu nome é Douglas Monquero</h3>
-<h3>Cursando Engenharia de Software - Cesumar</h3>
-<h3>Cursando Técnico de Desenvolvimento de Sistemas - SenaiCtm</h3>
-<h3>Cursando Front-End pela DevStart</h3>
-<h3>BootCamp Java em pausa</h3>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="doug-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
