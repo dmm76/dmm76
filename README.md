@@ -1,9 +1,14 @@
-<h1>🚀 Hello World! 🥇</h1>  
-<h2>Meu nome é Douglas Monquero</h2>
-<h2>Cursando Engenharia de Software - Cesumar</h2>
-<h2>Cursando Técnico de Desenvolvimento de Sistemas - SenaiCtm</h2>
-<h2>Cursando Front-End pela DevStart</h2>
-<h2>BootCamp Java em pausa</h2>
+<h1>🚀 Hello World! 🥇</h1>
+
+[![Douglas's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=dmm76\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/dmm76/github-readme-stats#gh-dark-mode-only)
+[![Douglas's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=dmm76\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/dmm76/github-readme-stats#gh-light-mode-only)
+
+<h3>Meu nome é Douglas Monquero</h3>
+<h3>Cursando Engenharia de Software - Cesumar</h3>
+<h3>Cursando Técnico de Desenvolvimento de Sistemas - SenaiCtm</h3>
+<h3>Cursando Front-End pela DevStart</h3>
+<h3>BootCamp Java em pausa</h3>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="doug-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="doug-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -23,8 +28,7 @@
   
 </div>
 
-[![Douglas's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=dmm76\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/dmm76/github-readme-stats#gh-dark-mode-only)
-[![Douglas's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=dmm76\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/dmm76/github-readme-stats#gh-light-mode-only)
+
 
 
 
