@@ -1,4 +1,4 @@
-<h1>🚀 Hello World! 🥇</h1>
+<h1 align"center">🚀 Hello World! 🥇</h1>
 
 <div>
   <h3>Meu nome é Douglas Monquero</h3>
