@@ -1,7 +1,10 @@
 <h1>🚀 Hello World! 🥇</h1>
 
-[![Douglas's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=dmm76\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/dmm76/github-readme-stats#gh-dark-mode-only)
-[![Douglas's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=dmm76\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/dmm76/github-readme-stats#gh-light-mode-only)
+<div align="">
+  <img align="center" ; src="https://github-readme-stats.vercel.app/api/top-langs?username=dmm76&layout=compact&bg_color=d9d9d9&border_color=ffffff&text_color=000000&title_color=000000&size_weight=0&count_weight=1" alt="robs" height = "150em"/> 
+ &nbsp;
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dmm76&bg_color=d9d9d9&border_color=ffffff&text_color=000000&title_color=000000" alt="robs" height = "150em"  />
 
 
 <picture>
