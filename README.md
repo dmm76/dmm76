@@ -3,6 +3,22 @@
 [![Douglas's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=dmm76\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/dmm76/github-readme-stats#gh-dark-mode-only)
 [![Douglas's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=dmm76\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/dmm76/github-readme-stats#gh-light-mode-only)
 
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
 <h3>Meu nome é Douglas Monquero</h3>
 <h3>Cursando Engenharia de Software - Cesumar</h3>
 <h3>Cursando Técnico de Desenvolvimento de Sistemas - SenaiCtm</h3>
