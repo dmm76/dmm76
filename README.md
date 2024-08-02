@@ -53,6 +53,13 @@
 </div>
 
 <h3>🧾Contato: douglas.monquero@gmail.com</h3>
-<h3>📘Estudando: javascript</h3>
+<ul>
+  <h3>📘Estudando:</h3>
+  <li>JavaScript</li>
+  <li>C#</li>
+  <li>Java</li>
+  <li>Banco de Dados</li>
+</ul>
+
 <h3>👦Pronomes: ele/dele</h3>
 
