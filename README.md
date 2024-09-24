@@ -6,7 +6,7 @@
    <li><h4> Cursando Engenharia de Software - Cesumar</h4></li>
    <li><h4>Cursando Técnico de Desenvolvimento de Sistemas - SenaiCtm</h4></li>
    <li><h4>Cursando Front-End pela DevStart</h4></li>
-   <li><h4>BootCamp Java em pausa</h4></li>
+   <li><h4>BootCamp Java - ativado</h4></li>
 </ul>
 </div>
 
