@@ -1,4 +1,5 @@
 <h1>🚀 Hello World! 🥇</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dmm76&label=Profile%20views&color=0e75b6&style=flat" alt="dmm76" /> </p>
 
 <div>
   <h3>Meu nome é Douglas Monquero</h3>
