@@ -1,10 +1,10 @@
 <h1>🚀 Hello World! 🥇</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dmm76&label=Profile%20views&color=0e75b6&style=flat" alt="dmm76" /> </p>
-<?php
-  date_default_timezone_set("America/Sao_Paulo");
-  echo "Hoje é dia " .date("d/M/Y");
-  echo " e a hora é " .date("G:i:s T");
-?>
+
+<!-- DATE_PLACEHOLDER -->
+Aqui aparecerá a data e hora atual.
+<!-- END_DATE_PLACEHOLDER -->
+
 <div>
   <h3>Meu nome é Douglas Monquero</h3>
 <ul>
