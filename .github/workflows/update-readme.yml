@@ -1,10 +1,9 @@
-name: Atualizar README com Data e Hora
+name: Atualizar README com Data
 
 on:
   schedule:
-     - cron: '*/30 * * * *'  # Executa a cada 30 minutos
-
-  workflow_dispatch:  # Permite executar manualmente pelo GitHub
+    - cron: '0 * * * *'  # Executa todo início de hora
+  workflow_dispatch:  # Permite execução manual
 
 jobs:
   update-readme:
@@ -27,7 +26,7 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add README.md
-          git commit -m "Atualizar README com data e hora atual" || echo "Nenhuma mudança para commitar"
+          git commit -m "Atualizar README com a nova data" || echo "Nenhuma mudança para commitar"
           git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
