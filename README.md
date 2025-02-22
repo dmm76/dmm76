@@ -5,9 +5,9 @@
   <h3>Meu nome é Douglas Monquero</h3>
 <ul>
    <li><h4> Cursando Engenharia de Software - Cesumar</h4></li>
-   <li><h4>Cursando Técnico de Desenvolvimento de Sistemas - SenaiCtm</h4></li>
+   <li><h4>Cursando Técnico de Desenvolvimento de Sistemas - SenaiCtm - Finalizando 03/25</h4></li>
    <li><h4>Cursando Front-End pela DevStart</h4></li>
-   <li><h4>BootCamp Java - ativado</h4></li>
+   <li><h4>Cursando Técnico de Desenvolvimento de Sistemas - Senac Maringá</h4></li>
 </ul>
 </div>
 
