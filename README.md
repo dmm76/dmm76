@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dmm76&label=Profile%20views&color=0e75b6&style=flat" alt="dmm76" /> </p>
 
 <!-- DATE_PLACEHOLDER -->
-Aqui aparecerá a data e hora atual.
+Hoje é dia **22/Feb/2025** e a hora é **14:34:00 -03**
 <!-- END_DATE_PLACEHOLDER -->
 
 <div>
