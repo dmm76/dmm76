@@ -10,12 +10,12 @@ Hoje é dia <strong>17/Sep/2025</strong>
 <div>
   <h3>Meu nome é Douglas Monquero</h3>
   <ul>
-    <li><h4>Cursando Engenharia de Software - Cesumar</h4></li>
-    <li><h4>Técnico de Desenvolvimento de Sistemas - SenaiCtm - Concluído 03/2025</h4></li>
-    <li><h4>Cursando Front-End pela DevStart</h4></li>
+    <li><h4>Cursando Engenharia de Software - Cesumar - 3º ano</h4></li>
+    <li><h4>Técnico de Desenvolvimento de Sistemas - SenaiCtm - Concluído 03/2025</h4></li>    
     <li><h4>Técnico de Desenvolvimento de Sistemas Java - Senac Maringá - Concluído 05/2025</h4></li>
-    <li><h4>Cursando Robótica - Senac Maringá</h4></li>
-    <li><h4>Iniciando Curso de Desenvolvimento de Sistemas em PHP - Senac Maringá</h4></li>
+    <li><h4>Curso de Robótica (arduino/esp32) - Senac Maringá - Concluído 06/2025</h4></li>
+    <li><h4>Finalizando Curso de Desenvolvimento de Sistemas em PHP - Senac Maringá</h4></li>
+    <li><h4>Cursando Front-End pela DevStart</h4></li>
   </ul>
 </div>
 
