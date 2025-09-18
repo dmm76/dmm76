@@ -1,63 +1,70 @@
 <h1>🚀 Hello World! 🥇</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dmm76&label=Profile%20views&color=0e75b6&style=flat" alt="dmm76" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=dmm76&label=Profile%20views&color=0e75b6&style=flat" alt="Visualizações do perfil" />
+</p>
 
 <!-- DATE_PLACEHOLDER -->
-Hoje é dia **17/Sep/2025**
+Hoje é dia <strong>17/Sep/2025</strong>
 <!-- END_DATE_PLACEHOLDER -->
 
 <div>
   <h3>Meu nome é Douglas Monquero</h3>
-<ul>
-   <li><h4> Cursando Engenharia de Software - Cesumar</h4></li>
-   <li><h4>Técnico de Desenvolvimento de Sistemas - SenaiCtm - Concluído 03/2025</h4></li>
-   <li><h4>Cursando Front-End pela DevStart</h4></li>
-   <li><h4>Técnico de Desenvolvimento de Sistemas Java - Senac Maringá - Concluído 05/2025</h4></li>
-  <li><h4>Cursando Robótica - Senac Maringá</h4></li>
-  <li><h4>Iniciando Curso de Desenvolvimento de Sistemas em PHP - Senac Maringá</h4></li>
-</ul>
+  <ul>
+    <li><h4>Cursando Engenharia de Software - Cesumar</h4></li>
+    <li><h4>Técnico de Desenvolvimento de Sistemas - SenaiCtm - Concluído 03/2025</h4></li>
+    <li><h4>Cursando Front-End pela DevStart</h4></li>
+    <li><h4>Técnico de Desenvolvimento de Sistemas Java - Senac Maringá - Concluído 05/2025</h4></li>
+    <li><h4>Cursando Robótica - Senac Maringá</h4></li>
+    <li><h4>Iniciando Curso de Desenvolvimento de Sistemas em PHP - Senac Maringá</h4></li>
+  </ul>
 </div>
 
-<div align="">
-  <img align="center" ; src="https://github-readme-stats.vercel.app/api/top-langs?username=dmm76&layout=compact&bg_color=d9d9d9&border_color=ffffff&text_color=000000&title_color=000000&size_weight=0&count_weight=1" alt="robs" height = "150em"/> 
- &nbsp;
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dmm76&bg_color=d9d9d9&border_color=ffffff&text_color=000000&title_color=000000" alt="robs" height = "150em"  />
-
+<div>
+  <!-- AUMENTE O CACHE PARA EVITAR RATE LIMIT -->
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=dmm76&layout=compact&bg_color=d9d9d9&border_color=ffffff&text_color=000000&title_color=000000&size_weight=0&count_weight=1&cache_seconds=86400"
+    alt="Linguagens mais usadas de dmm76"
+    height="150"
+  />
+  &nbsp;
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=dmm76&bg_color=d9d9d9&border_color=ffffff&text_color=000000&title_color=000000&cache_seconds=86400"
+    alt="Estatísticas de dmm76"
+    height="150"
+  />
+</div>
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="Animação da grade de contribuições do GitHub" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </picture>
-
 
 <div style="display: inline_block"><br>
   <img align="center" alt="doug-java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="doug-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="doug-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="doug-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="doug-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="doug-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="doug-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="doug-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="doug-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="doug-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
+  <img align="center" alt="doug-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+  <img align="center" alt="doug-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img align="center" alt="doug-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <img align="center" alt="doug-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img align="center" alt="doug-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
 </div>
-  
-  ##
- 
-<div> 
- <a href="https://discord.gg/dmm76" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:douglas.monquero@gmail.com@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/douglas-monquero" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+
+##
+
+<div>
+  <a href="https://discord.gg/dmm76" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="mailto:douglas.monquero@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/douglas-monquero" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </div>
 
 <h3>🧾Contato: douglas.monquero@gmail.com</h3>
