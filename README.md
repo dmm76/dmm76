@@ -4,7 +4,7 @@
 </p>
 
 <!-- DATE_PLACEHOLDER -->
-Hoje é dia **07/Jan/2026**
+Hoje é dia **08/Jan/2026**
 <!-- END_DATE_PLACEHOLDER -->
 
 <div>
