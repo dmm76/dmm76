@@ -19,6 +19,7 @@ Hoje é dia **03/Feb/2026**
   </ul>
 </div>
 
+
 <div>
   <!-- AUMENTE O CACHE PARA EVITAR RATE LIMIT -->
   <img
