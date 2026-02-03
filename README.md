@@ -23,18 +23,19 @@ Hoje é dia **03/Feb/2026**
 <div>
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=dmm76&layout=compact&bg_color=d9d9d9&border_color=ffffff&text_color=000000&title_color=000000&size_weight=0&count_weight=1"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=dmm76&layout=compact&bg_color=d9d9d9&border_color=ffffff&text_color=000000&title_color=000000&size_weight=0&count_weight=1"
     alt="Linguagens mais usadas de dmm76"
     height="150"
   />
   &nbsp;
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=dmm76&bg_color=d9d9d9&border_color=ffffff&text_color=000000&title_color=000000"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dmm76&bg_color=d9d9d9&border_color=ffffff&text_color=000000&title_color=000000"
     alt="Estatísticas de dmm76"
     height="150"
   />
 </div>
+
 
 
 <picture>
