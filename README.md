@@ -10,7 +10,7 @@ Hoje é dia **03/Oct/2026**
 <div>
   <h3>Meu nome é Douglas Monquero</h3>
   <ul>
-    <li><h4>Cursando Engenharia de Software - Cesumar - 3º ano</h4></li>
+    <li><h4>Cursando Engenharia de Software - Cesumar - 4º ano</h4></li>
     <li><h4>Cursando Técnico em Mecatrônica - Senai-CTM</h4></li>
     <li><h4>Técnico de Desenvolvimento de Sistemas - SenaiCtm - Concluído 03/2025</h4></li>    
     <li><h4>Técnico de Desenvolvimento de Sistemas Java - Senac Maringá - Concluído 05/2025</h4></li>
